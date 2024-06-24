@@ -1,0 +1,2 @@
+El trabajo sobre el objeto bibliográfico se ha finalizado, pero se deja para posterior consulta.
+Los objetos bibliográficos finalizados son susceptibles de ser borrados, para no sobrecargar el sistema.

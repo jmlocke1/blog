@@ -1,0 +1,1 @@
+El objeto bibliográfico se está leyendo o trabajando en esos momentos.

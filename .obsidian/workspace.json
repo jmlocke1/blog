@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "c1b5ffb2e480aa1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2d44a412fd290e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51e4a75e26358346",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8f63f46fdec8ff8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "bce5e5c2d8ae2405",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1d5ff005d11301e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "858ccf2d4eb17352",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "990258c2b42292b3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "51a3a0e62790f054",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed7cc6b5897b152f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3a0675a1ce3a001",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a5fc0f5486c0baef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9f085d2564ebc350",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6c3b29da21130948",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "51e4a75e26358346",
+  "lastOpenFiles": [
+    "Obsidian/Estados/Estados - Sin empezar.md",
+    "Obsidian/Estados/Estados - Finalizado.md",
+    "Obsidian/Estados/Estados - En progreso.md",
+    "Obsidian/Estados",
+    "Obsidian/Anexos/Paisaje de lago con montaña.jpg",
+    "Obsidian/Anexos/Opciones ubicación archivos adjuntos.png",
+    "Obsidian/Anexos/Configuración Archivos y enlaces.png",
+    "Obsidian/Anexos",
+    "Obsidian/Obsidian.md",
+    "Obsidian/Obsidian.canvas",
+    "Obsidian/Notas diarias.md",
+    "Obsidian/Nota permanente en Obsidian.md",
+    "Obsidian/Formatear el código fuente.md",
+    "Obsidian/Ejemplo de fórmulas matemáticas.md",
+    "Obsidian/Colocar imágenes.md",
+    "Obsidian/Callouts.md",
+    "Obsidian"
+  ]
+}

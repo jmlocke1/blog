@@ -1,0 +1,1 @@
+El objeto bibliográfico aún no se ha comenzado a leer, bien porque está en estado de recopilación de información durante una investigación o porque está en el montón de artículos para leer

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"1051839159ee13ab","type":"link","url":"https://es.wired.com/articulos/obsidian-como-utilizar-esta-app-para-mejorar-productividad","x":100,"y":-540,"width":400,"height":400},
+		{"id":"f2238ed4b65b91e4","x":-380,"y":-540,"width":400,"height":400,"type":"file","file":"Obsidian/Obsidian.md"},
+		{"id":"60844f7f423e143e","x":-380,"y":-80,"width":400,"height":400,"type":"file","file":"Obsidian/Notas diarias.md"},
+		{"id":"b1eacc050bb5ef46","x":100,"y":-80,"width":400,"height":400,"type":"file","file":"Obsidian/Nota permanente en Obsidian.md"}
+	],
+	"edges":[]
+}

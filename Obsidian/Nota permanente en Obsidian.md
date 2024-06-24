@@ -1,0 +1,1 @@
+Son notas pensadas para permanecer permanentemente en el Zettel. Tienen un formato determinado recogido en una plantilla
